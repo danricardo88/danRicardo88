@@ -1,4 +1,4 @@
-<img align="right" src="imgs/logo.svg" width="300"/>
+<img align="right" src="imgs/logo.svg" width="300" target='_blank'/>
 
 ### Hello, I'm Daniel Ricardo 👋
 
