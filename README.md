@@ -2,7 +2,7 @@
 
 ### Hello, I'm Daniel Ricardo 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielricardo/)](https://www.linkedin.com/in/danielricardo/)
+[![Linkedin Badge](https://img.shields.io/badge/-DanielRicardo-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielricardo/)](https://www.linkedin.com/in/danielricardo/)
 
 I'm a front end developer who loves everything about coding. Currently studying at the Trybe School of Technology
 
