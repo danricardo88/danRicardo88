@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="imgs/logo.svg" width="300"/>
 
-<!--
-**danricardo88/danRicardo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Daniel Ricardo 👋
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielricardo/)](https://www.linkedin.com/in/danielricardo/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a front end developer who loves everything about coding. Currently studying at the Trybe School of Technology
+
+- 👨🏻‍💻 I've been developing projects in React, using Redux, React Testing Library, React Router DOM and also using CSS Modules.
+
+- :v: I like hiking, camping, yoga and I love reading One Piece.
+
+"I have on me all the dreams of the world." - Fernando Pessoa
